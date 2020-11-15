@@ -1,5 +1,5 @@
 ---
-typora-root-url: ./Images/one.png
+
 ---
 
 # Sound Lab: Introduction to DJing
@@ -28,8 +28,8 @@ Welcome to the Sound Lab: Introduction to DJing class. This page includes links 
 2. Download algoriddim djay PRO for your computer's operating system, install, and confirm that it opens without error.
 3. Download and install Zoom. 
 4. Read about ["Sharing computer sound during screen sharing"](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-Computer-Sound-During-Screen-Sharing) on Zoom. Test that you are able to do so.
-5. Change your main audio output settings in algoriddim djay PRO to ZoomAudioDevice as shown in the following images.
-   - ![](/../one.png)
+5. Change your main audio output settings in algoriddim djay PRO to ZoomAudioDevice as shown in the following images: 
+   - ![first](./images/one.png)
 
 
 
