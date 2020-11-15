@@ -1,7 +1,3 @@
----
-
----
-
 # Sound Lab: Introduction to DJing
 
 Welcome to the Sound Lab: Introduction to DJing class. This page includes links to everything you will need for this workshop. The goal of this workshop is to introduce you to what DJing is by working through fundamental concepts: navigating a (virtual) controller and mixer, understanding EQ & FX, beat matching, and recording. 
