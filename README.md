@@ -25,9 +25,9 @@ Welcome to the Sound Lab: Introduction to DJing class. This page includes links 
 3. Download and install Zoom. 
 4. Read about ["Sharing computer sound during screen sharing"](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-Computer-Sound-During-Screen-Sharing) on Zoom. Test that you are able to do so.
 5. Change your main audio output settings in algoriddim djay PRO to ZoomAudioDevice as shown in the following images.
-   - ![1](/Users/izzy/Documents/GitHub/Sound-Lab/1.png)
-   - ![2](/Users/izzy/Documents/GitHub/Sound-Lab/2.png)
-   - ![3](/Users/izzy/Documents/GitHub/Sound-Lab/3.png)
+   - ![1](./Images/one.png)
+   - ![2](./images/two.png)
+   - ![3](./images/three.png)
 
 
 
