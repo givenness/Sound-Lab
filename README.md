@@ -1,4 +1,4 @@
-# Sound Lab: Introdcution to DJing
+# Sound Lab: Introduction to DJing
 
 Welcome to the Sound Lab: Introduction to DJing class. This page includes links to everything you will need for this workshop. The goal of this workshop is to introduce you to what DJing is by working through fundamental concepts: navigating a (virtual) controller and mixer, understanding EQ & FX, beat matching, and recording. 
 
@@ -25,8 +25,10 @@ Welcome to the Sound Lab: Introduction to DJing class. This page includes links 
 3. Download and install Zoom. 
 4. Read about ["Sharing computer sound during screen sharing"](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-Computer-Sound-During-Screen-Sharing) on Zoom. Test that you are able to do so.
 5. Change your main audio output settings in algoriddim djay PRO to ZoomAudioDevice as shown in the following images.
-   a) ![One](./images/1.png)
-  
+   - [ ]  ![One](./images/one.png)
+   - [ ] ![Two](./images/two.png)
+   - [ ] ![Three](./images/three.png)
+
 If you run into issues with downloading or audio set up, please email me at [0@stud1nt.nyc](mailto:0@stud1nt.nyc). 
 
 I look forward to seeing you on Wednesday! 
