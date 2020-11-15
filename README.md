@@ -4,7 +4,7 @@ Welcome to the Sound Lab: Introduction to DJing class. This page includes links 
 
 ### Workshop Materials
 
-[Presentation](./presentation.pdf])
+[Presentation](https://www.dropbox.com/s/d1nnud0s7uao5d8/presentation.pdf?dl=0)
 
 **Software**
 
@@ -14,9 +14,9 @@ Welcome to the Sound Lab: Introduction to DJing class. This page includes links 
 
 **Audio**
 
-[Audio 1](./audio1.mp3)
+[Audio 1](https://www.dropbox.com/s/vyzrlaiwkzc9xzl/Audio1.mp3?dl=0)
 
-[Audio 2](./audio2.mp3)
+[Audio 2](https://www.dropbox.com/s/9di9puv4aj7qg7e/Audio2.mp3?dl=0)
 
 ### Pre-Class Prep Work
 
@@ -25,9 +25,9 @@ Welcome to the Sound Lab: Introduction to DJing class. This page includes links 
 3. Download and install Zoom. 
 4. Read about ["Sharing computer sound during screen sharing"](https://support.zoom.us/hc/en-us/articles/201362643-Sharing-Computer-Sound-During-Screen-Sharing) on Zoom. Test that you are able to do so.
 5. Change your main audio output settings in algoriddim djay PRO to ZoomAudioDevice as shown in the following images.
-   - ![1](/Users/izzy/Dropbox/2020 stud1nt/Sound Lab: Introduction to DJing/1.png)
-   - ![2](/Users/izzy/Dropbox/2020 stud1nt/Sound Lab: Introduction to DJing/2.png)
-   - ![3](/Users/izzy/Dropbox/2020 stud1nt/Sound Lab: Introduction to DJing/3.png)
+   - ![1](https://www.dropbox.com/s/jfnvdbrsxc0hux3/1.png?dl=0)
+   - ![2](https://www.dropbox.com/s/kksjfmy7kdiaea5/2.png?dl=0)
+   - ![3](https://www.dropbox.com/s/keek31mkrlpk9ph/3.png?dl=0)
 
 
 
