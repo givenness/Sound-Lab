@@ -31,8 +31,6 @@ Welcome to the Sound Lab: Introduction to DJing class. This page includes links 
 
 
 
-
-
 *If you run into issues with downloading or audio set up, please email me at [0@stud1nt.nyc](mailto:0@stud1nt.nyc).* 
 
 *I look forward to seeing you on Wednesday!* 
