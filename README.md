@@ -6,6 +6,10 @@ Welcome to the Sound Lab: Introduction to DJing class. This page includes links 
 
 [Presentation](https://www.dropbox.com/s/d1nnud0s7uao5d8/presentation.pdf?dl=0)
 
+[algoriddim djay PRO Manual (Mac)](https://help.algoriddim.com/hc/en-us/articles/360014911691-User-Manual-for-djay-for-Mac)
+
+[algoriddim djay PRO Manual (Windows)](https://help.algoriddim.com/hc/en-us/articles/360014702852-User-Manual-for-djay-Pro-for-Windows)
+
 **Software**
 
 [algoriddim djay PRO](https://www.algoriddim.com/)
